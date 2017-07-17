@@ -1,0 +1,15 @@
+C:\Users\camilog\Desktop\CodeProjectSelfHostedBroadcastServiceSignalRSample - Copy\WindowsClient\bin\Debug\WindowsClient.exe.config
+C:\Users\camilog\Desktop\CodeProjectSelfHostedBroadcastServiceSignalRSample - Copy\WindowsClient\bin\Debug\WindowsClient.exe
+C:\Users\camilog\Desktop\CodeProjectSelfHostedBroadcastServiceSignalRSample - Copy\WindowsClient\bin\Debug\WindowsClient.pdb
+C:\Users\camilog\Desktop\CodeProjectSelfHostedBroadcastServiceSignalRSample - Copy\WindowsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\camilog\Desktop\CodeProjectSelfHostedBroadcastServiceSignalRSample - Copy\WindowsClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\camilog\Desktop\CodeProjectSelfHostedBroadcastServiceSignalRSample - Copy\WindowsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\camilog\Desktop\CodeProjectSelfHostedBroadcastServiceSignalRSample - Copy\WindowsClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\camilog\Desktop\CodeProjectSelfHostedBroadcastServiceSignalRSample - Copy\WindowsClient\obj\Debug\WindowsClient.csprojResolveAssemblyReference.cache
+C:\Users\camilog\Desktop\CodeProjectSelfHostedBroadcastServiceSignalRSample - Copy\WindowsClient\obj\Debug\WindowsClient.Properties.Resources.resources
+C:\Users\camilog\Desktop\CodeProjectSelfHostedBroadcastServiceSignalRSample - Copy\WindowsClient\obj\Debug\WindowsClient.csproj.GenerateResource.Cache
+C:\Users\camilog\Desktop\CodeProjectSelfHostedBroadcastServiceSignalRSample - Copy\WindowsClient\obj\Debug\WindowsClient.exe
+C:\Users\camilog\Desktop\CodeProjectSelfHostedBroadcastServiceSignalRSample - Copy\WindowsClient\obj\Debug\WindowsClient.pdb
+C:\Users\camilog\Desktop\CuerpoActivo_WindowsClient\WindowsClient\bin\Debug\WindowsClient.exe.config
+C:\Users\camilog\Desktop\CuerpoActivo_WindowsClient\WindowsClient\obj\Debug\WindowsClient.exe
+C:\Users\camilog\Desktop\CuerpoActivo_WindowsClient\WindowsClient\obj\Debug\WindowsClient.pdb

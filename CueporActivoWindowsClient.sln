@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuerpoActivoWindowsClient", "CuerpoActivoWindowsClient\CuerpoActivoWindowsClient.csproj", "{2A48BE79-0134-405B-8D0E-601B43F95E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuerpoActivoWPFClient", "CuerpoActivoWPFClient\CuerpoActivoWPFClient.csproj", "{F1AA661A-80B0-4F07-971C-F97AB1D4C1D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A48BE79-0134-405B-8D0E-601B43F95E25}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{2A48BE79-0134-405B-8D0E-601B43F95E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A48BE79-0134-405B-8D0E-601B43F95E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A48BE79-0134-405B-8D0E-601B43F95E25}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A48BE79-0134-405B-8D0E-601B43F95E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A48BE79-0134-405B-8D0E-601B43F95E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A48BE79-0134-405B-8D0E-601B43F95E25}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AA661A-80B0-4F07-971C-F97AB1D4C1D4}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AA661A-80B0-4F07-971C-F97AB1D4C1D4}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{F1AA661A-80B0-4F07-971C-F97AB1D4C1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AA661A-80B0-4F07-971C-F97AB1D4C1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AA661A-80B0-4F07-971C-F97AB1D4C1D4}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AA661A-80B0-4F07-971C-F97AB1D4C1D4}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{F1AA661A-80B0-4F07-971C-F97AB1D4C1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AA661A-80B0-4F07-971C-F97AB1D4C1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1AA661A-80B0-4F07-971C-F97AB1D4C1D4}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AA661A-80B0-4F07-971C-F97AB1D4C1D4}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
